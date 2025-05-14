@@ -239,10 +239,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aiodhx8W_0-ddL631UJq-243" value="医疗AIGC营销素材创作&amp;amp;审核平台（SaaS）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aiodhx8W_0-ddL631UJq-243" value="医疗AIGC营销素材创作&amp;amp;审核平台（SaaS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="525" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aiodhx8W_0-ddL631UJq-246" value="营销图片生成" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="aiodhx8W_0-ddL631UJq-246" value="营销图片生成" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiodhx8W_0-ddL631UJq-247" value="AI生图引擎&lt;br&gt;&lt;div&gt;（术前术后对比图、&lt;/div&gt;&lt;div&gt;产品效果图）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -251,7 +251,7 @@
         <mxCell id="aiodhx8W_0-ddL631UJq-248" value="&lt;div&gt;模板化生成&lt;/div&gt;&lt;div&gt;（场景模板库、&lt;/div&gt;&lt;div&gt;参数调整）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1006.6666666666666" y="772" width="133.33333333333331" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aiodhx8W_0-ddL631UJq-251" value="营销文案生成" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="aiodhx8W_0-ddL631UJq-251" value="营销文案生成" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-840" y="630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiodhx8W_0-ddL631UJq-252" value="AI文案生成&lt;div&gt;（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爆款文案结构&lt;/span&gt;&lt;/div&gt;&lt;div&gt;个性化适配&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -266,7 +266,7 @@
         <mxCell id="aiodhx8W_0-ddL631UJq-256" value="合规水印注入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-1006.6666666666666" y="908" width="133.33333333333331" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aiodhx8W_0-ddL631UJq-257" value="AI&amp;nbsp;自动审核" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="aiodhx8W_0-ddL631UJq-257" value="AI&amp;nbsp;自动审核" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-660" y="630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiodhx8W_0-ddL631UJq-258" value="文案生成后初步筛查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
